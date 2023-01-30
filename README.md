@@ -10,7 +10,7 @@ Write your own steps here.
 Add author name and edition
 
 ### step 3:
-end the progarm
+end the program
 ## Code:
 ``` html
 <!DOCTYPE html>
